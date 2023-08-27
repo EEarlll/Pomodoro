@@ -16,7 +16,7 @@ This is a simple web application for managing your work and break sessions using
 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in your web browser.
-
+or visit the site https://eearlll.github.io/Pomodoro/
 ## How to Use
 
 1. Choose a background theme by clicking on one of the theme options in the header.
